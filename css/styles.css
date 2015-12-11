@@ -1,3 +1,107 @@
-/*
-Aqui escribe tu codigo de CSS.
-*/
+body {
+	display: block;
+	margin: 20px 65px 65px 65px;
+}
+
+#logo {
+	display: inline-block;
+}
+
+#studentfront {
+	height: 3em;
+	width: 30em;
+	background-color: white;
+	display: inline-block;
+	float: right;
+}
+
+#cstudent {
+	font-family: Arial;
+	text-align: right;
+	font-size: 35px;
+	margin-top: -5px;
+	font-weight: bold;
+}
+
+#front {
+	font-family: Arial;
+	text-align: right;
+	font-size: 20px;
+	margin-top: -25px;
+}
+
+#line {
+	display: block;
+	height: 1px;
+	width:100%;
+	background-color: gray;
+	margin-top: 20px;
+}
+
+#featurediv {
+	display: block;
+	margin-bottom: -20px;
+}
+
+#featuredp {
+	font-family: Arial;
+	font-size: 25px;
+	font-weight: bold;
+	color: gray;
+}
+
+.linkleft {
+	height: 80px;
+	width: 555px;
+	display: inline-block;
+	background-color: red;
+}
+
+.linkright {
+	height: 80px;
+	width: 555px;
+	display: inline-block;
+	background-color: red;
+	float: right;
+}
+
+a {
+	text-decoration: none;
+}
+
+.nameproject {
+	text-align: center;
+	font-size: 20px;
+	font-family: Arial;
+	font-weight: bold;
+}
+
+.linkproject {
+	text-align: center;
+	color: blue;
+	font-size: 15px;
+	font-family: Arial;
+	margin-top: -20px;
+}
+
+.right {
+	float: right;
+}
+
+.rectangle {
+	width: 555px;
+	height: 300px;
+	border-radius: 8px;
+}
+
+#factorial {
+	background-color: orange;
+}
+
+.white {
+	color: white;
+	font-size: 300%;
+	line-height: 265px;
+	text-align: center;
+	font-family: Arial;
+}
