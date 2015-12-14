@@ -54,14 +54,12 @@ body {
 	height: 80px;
 	width: 555px;
 	display: inline-block;
-	background-color: red;
 }
 
 .linkright {
 	height: 80px;
 	width: 555px;
 	display: inline-block;
-	background-color: red;
 	float: right;
 }
 
@@ -92,10 +90,7 @@ a {
 	width: 555px;
 	height: 300px;
 	border-radius: 8px;
-}
-
-#factorial {
-	background-color: orange;
+	display: inline-block;
 }
 
 .white {
@@ -104,4 +99,28 @@ a {
 	line-height: 265px;
 	text-align: center;
 	font-family: Arial;
+}
+
+#factorial {
+	background-color: orange;
+}
+
+#guess {
+	float: right;
+	background-color: black;
+}
+
+#cc {
+	background-color: maroon;
+}
+
+#dars {
+	float: right;
+	background-color: fuchsia;
+
+}
+
+.linkproject:hover {
+	font-size: 20px;
+	font-weight: bolder;
 }
