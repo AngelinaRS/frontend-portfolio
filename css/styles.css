@@ -3,19 +3,18 @@ body {
 	margin: 20px 65px 65px 65px;
 }
 
-#logo {
+.logo {
 	display: inline-block;
 }
 
-#studentfront {
+.studentfront {
 	height: 3em;
 	width: 30em;
 	background-color: white;
 	display: inline-block;
-	float: right;
 }
 
-#cstudent {
+.cstudent {
 	font-family: Arial;
 	text-align: right;
 	font-size: 35px;
@@ -23,14 +22,14 @@ body {
 	font-weight: bold;
 }
 
-#front {
+.front {
 	font-family: Arial;
 	text-align: right;
 	font-size: 20px;
 	margin-top: -25px;
 }
 
-#line {
+.line {
 	display: block;
 	height: 1px;
 	width:100%;
@@ -38,29 +37,22 @@ body {
 	margin-top: 20px;
 }
 
-#featurediv {
+.featurediv {
 	display: block;
 	margin-bottom: -20px;
 }
 
-#featuredp {
+.featuredp {
 	font-family: Arial;
 	font-size: 25px;
 	font-weight: bold;
 	color: gray;
 }
 
-.linkleft {
+.link {
 	height: 80px;
 	width: 555px;
 	display: inline-block;
-}
-
-.linkright {
-	height: 80px;
-	width: 555px;
-	display: inline-block;
-	float: right;
 }
 
 a {
@@ -101,20 +93,20 @@ a {
 	font-family: Arial;
 }
 
-#factorial {
+.factorial {
 	background-color: orange;
 }
 
-#guess {
+.guess {
 	float: right;
 	background-color: black;
 }
 
-#cc {
+.cc {
 	background-color: maroon;
 }
 
-#dars {
+.dars {
 	float: right;
 	background-color: fuchsia;
 
