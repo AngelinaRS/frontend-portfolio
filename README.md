@@ -108,4 +108,4 @@ Now you have to check your colleagues' code and leave your own comments. Go to o
 
 #### To see my project click here:
 
-## http://angelinars.github.io/frontend-portfolio.
+## http://angelinars.github.io/frontend-portfolio
